@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.43",
+  "importer": "prefab",
+  "imported": true,
+  "uuid": "54542160-2b34-4aec-b563-289169bf70e5",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "syncNodeName": "CommonPrompt"
+  }
+}
